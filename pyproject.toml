@@ -1,0 +1,7 @@
+[project]
+name = "mural"
+version = "0.0.1"
+dependencies = ["click", "requests", "tabulate"]
+
+[project.scripts]
+mural = "mural.cli:cli"

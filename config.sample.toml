@@ -1,0 +1,7 @@
+[mural]
+host = "https://app.mural.co"
+refresh_token = ""
+
+[app]
+client_id = ""
+client_secret = ""
